@@ -1,2 +1,11 @@
-package enums;public class Country {
+package enums;
+
+public enum Country {
+    USA,
+    CHINA,
+    KOREA,
+    KYRGYZSTAN,
+    JAPAN;
+
+
 }

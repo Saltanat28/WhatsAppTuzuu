@@ -1,4 +1,8 @@
 package services;
 
-public interface interfaceWhatsAppSevice {
+public interface WhatsAppService {
+     String createWhatsApp();
+     String getAllWhatsAppusers();
+     String changeWhatsAppStutus();
+
 }
